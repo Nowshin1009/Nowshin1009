@@ -12,7 +12,7 @@ Hello! I'm a passionate **B.Sc. Software Engineering** student currently diving 
 My aim is to become a proficient **Data Scientist** one day! I am continuously learning and improving my skills to tackle complex data challenges and contribute to impactful projects.
 
 ## Let's Connect!
-I'm always open to learning new things and connecting with fellow enthusiasts. Feel free to reach out to me on [LinkedIn](your-linkedin-profile) or follow me on GitHub to stay updated on my projects!
+I'm always open to learning new things and connecting with fellow enthusiasts. Feel free to reach out to me on [LinkedIn](www.linkedin.com/in/iffataranowshin) or follow me on GitHub to stay updated on my projects!
 
 Thank you for visiting my profile! 🚀
 
