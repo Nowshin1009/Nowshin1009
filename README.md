@@ -21,10 +21,10 @@ I’m a dedicated QA professional with a **B.Sc. in Software Engineering** and h
 
 ## 🧠 Technical Skills  
 
-**Testing Tools:** TestRail, JIRA, Postman, BrowserStack  
+**Testing Tools:** TestRail, JIRA, Postman, BrowserStack 
 **Automation:** Playwright, Selenium (beginner)  
 **Testing Types:** Functional, Regression, Integration, API, UI, Exploratory  
-**Programming/Scripting:** JavaScript, Python (basic), SQL  
+**Programming/Scripting:** Java, Python (basic), SQL  
 **Documentation:** Test Plans, Test Cases, Bug Reports, QA Reports  
 **Version Control:** Git, GitHub  
 **Analytics & Reporting:** Power BI, Looker Studio  
@@ -44,7 +44,7 @@ Here are a few types of projects I’ve worked on (link your repositories below 
 ---
 
 ## 📫 Connect With Me  
-- 💼 [LinkedIn](https://www.linkedin.com/)  
+- 💼 [LinkedIn]([https://www.linkedin.com/](https://github.com/Nowshin1009))  
 - 📧 **iffataranowshin55@gmail.com**  
 - 🌐 [Portfolio / Personal Site](#) *(optional — add when ready)*  
 
