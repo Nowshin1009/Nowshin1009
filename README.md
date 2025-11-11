@@ -32,7 +32,7 @@ I’m a dedicated QA professional with a **B.Sc. in Software Engineering** and h
 ---
 
 ## 🧩 Projects & Contributions  
-Here are a few types of projects I’ve worked on (link your repositories below 👇):  
+Here are a few types of projects I’ve worked on:  
 
 - 🧪 **Web and Mobile App Testing:** Manual and automated testing for responsive applications.  
 - ⚙️ **API Testing:** Using Postman to validate endpoints and back-end logic.  
