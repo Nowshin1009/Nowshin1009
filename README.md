@@ -46,7 +46,7 @@ Here are a few types of projects I’ve worked on (link your repositories below 
 ## 📫 Connect With Me  
 - 💼 [LinkedIn]([https://www.linkedin.com/](https://github.com/Nowshin1009))  
 - 📧 **iffataranowshin55@gmail.com**  
-- 🌐 [Portfolio / Personal Site](#) *(optional — add when ready)*  
+- 🌐 [Portfolio / Personal Site](#) 
 
 ---
 
