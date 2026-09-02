@@ -37,7 +37,7 @@ I care about shipping software that actually works for the people using it, not 
 | **Manual Testing** | Functional, Regression, Integration, UI, Exploratory, Smoke |
 | **Mobile Testing** | Android (APK) application testing |
 | **Test Management** | TestRail, JIRA, BrowserStack |
-| **Scripting** | JS, TS, Python (basic), SQL |
+| **Scripting** | Java, Python (basic), SQL |
 | **Documentation** | Test Plans, Test Cases, Bug Reports, QA Reports |
 | **Reporting/Analytics** | Power BI, Looker Studio |
 | **Version Control** | Git, GitHub |
@@ -47,19 +47,17 @@ I care about shipping software that actually works for the people using it, not 
 ### 🧩 Experience Highlights
 
 **QA Engineer — Shadhin Lab LLC** *(1+ years)*
-🧠 Test web and mobile (APK) applications for international clients across the full QA cycle
-🧪 Contributed QA coverage across 5-7 web and APK projects at Shadhin Lab LLC
-🤖 Built and maintain 25–50 automated test scripts in Playwright for regression and sanity suites
-⏱️ Automation has cut regression testing time by 50%+, freeing up time for deeper exploratory testing
-📊 Write and maintain structured test cases, test plans, and bug reports in TestRail/JIRA
----
-**QA Intern — A1QA** *(USA-based QA firm, international clients)*
 
+- 🧪 Contributed QA coverage across **7–10 web and APK projects** at Shadhin Lab LLC
+- 🤖 Build Playwright automation scripts for regression and sanity testing, cutting down repetitive manual test cycles
+- ⏱️ Automation has cut **regression testing time by 50%+**, freeing up time for deeper exploratory testing
+- 🧩 Collaborate directly with cross-border product and dev teams to clarify requirements and close feedback loops fast
+- ✍ Write and maintain structured test cases, test plans, and bug reports in TestRail/JIRA
+
+**QA Intern — A1QA** *(USA-based QA firm, international clients)*
 - Gained foundational experience in manual, regression, and integration testing on live client projects
-- Test web and mobile (APK) applications for international clients across the full QA cycle
+- Test web and mobile (APK) applications across the full QA cycle
 - Design and execute API test suites in Postman to validate backend logic and integrations
-- Build Playwright automation scripts for regression and sanity testing, cutting down repetitive manual test cycles
-- Collaborate directly with cross-border product and dev teams to clarify requirements and close feedback loops fast
 
 ---
 
