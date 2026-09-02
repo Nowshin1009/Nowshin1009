@@ -53,7 +53,7 @@ I care about shipping software that actually works for the people using it, not 
 - Collaborate directly with cross-border product and dev teams to clarify requirements and close feedback loops fast
 - Write and maintain structured test cases, test plans, and bug reports in TestRail/JIRA
 
-**QA Intern — A1QA** *(Bangladesh-based QA firm, international clients)*
+**QA Intern — A1QA** *(USA-based QA firm, international clients)*
 - Gained foundational experience in manual, regression, and integration testing on live client projects
 
 > 💡 *Tip for you: add 1–2 concrete numbers here if you have them — e.g. "reduced regression testing time by X%", "wrote Y+ automated test cases", "found Z critical bugs before release." Real metrics like these are what actually make a QA README stand out to recruiters — I've left this as a placeholder rather than invent numbers for you.*
