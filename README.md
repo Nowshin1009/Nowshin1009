@@ -1,56 +1,82 @@
-# Welcome to My GitHub Profile! 👋
+<h1 align="center">Hi, I'm Iffat Ara Nowshin 👋</h1>
+<h3 align="center">Software Quality Assurance Engineer | Manual + Automation Testing | API & Playwright</h3>
 
-# 👋 Hi, I'm Iffat Ara Nowshin  
-
-🎯 **Junior Software Quality Assurance (SQA) Engineer** | Passionate about software testing, automation, and delivering high-quality digital experiences.  
-
-I’m a dedicated QA professional with a **B.Sc. in Software Engineering** and hands-on experience in both **manual** and **automation testing**. I enjoy uncovering bugs, improving test efficiency, and ensuring seamless user experiences through well-structured testing processes.  
-
----
-
-## 🔍 About Me  
-- 💻 Currently working as a **Junior QA Engineer (Intern)** at **Shadhin Lab LLC**, collaborating with Japan-based clients.  
-- 🌎 Previously interned at **A1QA**, a Bangladesh-based QA firm working with international clients.  
-- 🧪 Experienced in **manual**, **regression**, **integration**, and **API testing** for web and mobile applications.  
-- 🤖 Growing expertise in **test automation** using **Playwright** and **Selenium**.  
-- 🧾 Skilled in writing **test cases, test plans**, and **bug reports** using tools like **TestRail** and **JIRA**.  
-- 📊 Familiar with **SQL** for data validation and **Power BI / Looker Studio** for analytical dashboards.  
-- 🚀 Passionate about continuous learning, exploring new testing frameworks, and improving QA processes.  
+<p align="center">
+  <img src="https://img.shields.io/badge/Experience-1%2B%20Year-blue" />
+  <img src="https://img.shields.io/badge/Focus-QA%20%26%20Test%20Automation-brightgreen" />
+  <img src="https://img.shields.io/badge/Clients-International-orange" />
+</p>
 
 ---
 
-## 🧠 Technical Skills  
+### 🎯 About Me
 
-**Testing Tools:** TestRail, JIRA, Postman, BrowserStack 
-**Automation:** Playwright, Selenium (beginner)  
-**Testing Types:** Functional, Regression, Integration, API, UI, Exploratory  
-**Programming/Scripting:** Java, Python (basic), SQL  
-**Documentation:** Test Plans, Test Cases, Bug Reports, QA Reports  
-**Version Control:** Git, GitHub  
-**Analytics & Reporting:** Power BI, Looker Studio  
+I'm a QA Engineer at **Shadhin Lab LLC**, where I've spent the past 1+ years testing and hardening web and mobile (APK) applications for international clients, including teams based in Japan. I started in manual/functional testing and have since grown into **API testing** and **automation testing with Playwright**, working across the full QA lifecycle — from writing test plans to catching regressions before they reach production.
+
+I care about shipping software that actually works for the people using it, not just software that passes a checklist.
 
 ---
 
-## 🧩 Projects & Contributions  
-Here are a few types of projects I’ve worked on:  
+### 🚀 What I Bring to a Team
 
-- 🧪 **Web and Mobile App Testing:** Manual and automated testing for responsive applications.  
-- ⚙️ **API Testing:** Using Postman to validate endpoints and back-end logic.  
-- 🤖 **Automation Scripts:** Playwright-based automation for regression and sanity test suites.  
-- 📈 **Test Documentation:** Structured test cases and plans ensuring coverage and traceability.  
-
-👉 Explore my repositories to see real examples of my testing work and automation scripts!  
-
----
-
-## 📫 Connect With Me  
-- 💼 [LinkedIn]([https://www.linkedin.com/](https://github.com/Nowshin1009))  
-- 📧 **iffataranowshin55@gmail.com**  
-- 🌐 [Portfolio / Personal Site](#) 
+- 🧪 **1+ years of hands-on QA** across web and Android (APK) applications, in fast-moving, client-facing projects
+- 🌏 **Direct collaboration with international clients** — translating requirements across time zones and communication styles into clear, testable specs
+- ⚙️ **API testing & automation**, using **Postman** and **Playwright** to validate backend logic and catch regressions early
+- 🤖 **Growing automation ownership** — building and maintaining Playwright test suites for regression and sanity coverage, reducing manual re-testing effort
+- 🧾 **Structured QA documentation** — test plans, test cases, and bug reports in **TestRail** and **JIRA** that developers actually want to read
+- 📊 **Data-aware testing** — using **SQL** for data validation and **Power BI / Looker Studio** for reporting test coverage and quality trends
 
 ---
 
-⭐ *“Quality is never an accident; it is always the result of intelligent effort.”* — John Ruskin  
+### 🧠 Technical Skills
 
+| Category | Tools & Skills |
+|---|---|
+| **Automation** | Playwright, Selenium (beginner) |
+| **API Testing** | Postman, REST API validation |
+| **Manual Testing** | Functional, Regression, Integration, UI, Exploratory, Smoke |
+| **Mobile Testing** | Android (APK) application testing |
+| **Test Management** | TestRail, JIRA, BrowserStack |
+| **Scripting** | Java, Python (basic), SQL |
+| **Documentation** | Test Plans, Test Cases, Bug Reports, QA Reports |
+| **Reporting/Analytics** | Power BI, Looker Studio |
+| **Version Control** | Git, GitHub |
 
+---
 
+### 🧩 Experience Highlights
+
+**QA Engineer — Shadhin Lab LLC** *(1+ years)*
+- Test web and mobile (APK) applications for international clients across the full QA cycle
+- Design and execute API test suites in Postman to validate backend logic and integrations
+- Build Playwright automation scripts for regression and sanity testing, cutting down repetitive manual test cycles
+- Collaborate directly with cross-border product and dev teams to clarify requirements and close feedback loops fast
+- Write and maintain structured test cases, test plans, and bug reports in TestRail/JIRA
+
+**QA Intern — A1QA** *(Bangladesh-based QA firm, international clients)*
+- Gained foundational experience in manual, regression, and integration testing on live client projects
+
+> 💡 *Tip for you: add 1–2 concrete numbers here if you have them — e.g. "reduced regression testing time by X%", "wrote Y+ automated test cases", "found Z critical bugs before release." Real metrics like these are what actually make a QA README stand out to recruiters — I've left this as a placeholder rather than invent numbers for you.*
+
+---
+
+### 📌 Featured Work
+
+*(Pin or list 2–3 of your best repos here — e.g. a Playwright automation suite, an API test collection, or a bug report/test case template. Recruiters look at your pinned repos more than this README, so this section should point them there.)*
+
+- 🔗 [Playwright Automation Suite](#) — regression & sanity test automation for a web app
+- 🔗 [API Test Collection (Postman)](#) — endpoint validation and backend logic testing
+- 🔗 [QA Documentation Templates](#) — test plans, test cases, bug report formats
+
+---
+
+### 📫 Let's Connect
+
+- 💼 **LinkedIn:** [linkedin.com/in/your-actual-handle](#) *(update this — the old link pointed to your GitHub, not LinkedIn)*
+- 📧 **Email:** iffataranowshin55@gmail.com
+- 🌐 **Portfolio:** [Add your portfolio link here](#)
+- 🐙 **GitHub:** [github.com/Nowshin1009](https://github.com/Nowshin1009)
+
+---
+
+<p align="center"><i>"Quality is never an accident; it is always the result of intelligent effort." — John Ruskin</i></p>
