@@ -37,7 +37,7 @@ I care about shipping software that actually works for the people using it, not 
 | **Manual Testing** | Functional, Regression, Integration, UI, Exploratory, Smoke |
 | **Mobile Testing** | Android (APK) application testing |
 | **Test Management** | TestRail, JIRA, BrowserStack |
-| **Scripting** | Java, Python (basic), SQL |
+| **Scripting** | JS, TS, Python (basic), SQL |
 | **Documentation** | Test Plans, Test Cases, Bug Reports, QA Reports |
 | **Reporting/Analytics** | Power BI, Looker Studio |
 | **Version Control** | Git, GitHub |
